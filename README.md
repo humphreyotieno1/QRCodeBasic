@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github repo](https://github.com/humphreyotieno1/QRCodeBasic.git)
-- Live Site URL: [Github pages](https://humphreyotieno1.github.io/QRCodeBasic/)
+- Live Site URL: [Vercel](https://qr-code-basic.vercel.app/)
 
 ## My process
 
